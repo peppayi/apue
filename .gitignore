@@ -59,3 +59,8 @@ intro/shell1
 intro/shell2
 intro/testerror
 intro/uidgid
+intro/getcputc
+
+fileio/seek
+fileio/hole
+fileio/file.hole
