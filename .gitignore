@@ -64,3 +64,4 @@ intro/getcputc
 fileio/seek
 fileio/hole
 fileio/file.hole
+fileio/mycat
